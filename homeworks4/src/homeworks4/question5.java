@@ -54,30 +54,8 @@ public class question5 {
 		
 		
 		
-		//		
-//		String sifre2 =scan.nextLine()  ;
-//		
-//		if (sifre.equals(sifre.toUpperCase())) {
-//			
-//		}
-//			
-//		else if(sifre.charAt(7).equals(sifre.toLowerCase())) {
-//				
-				
 			
-	
-			
-		
-				
-		
-		
-		
-//		
-//	if( !(ilkharf>=65 && ilkharf <= 90) ) {
-//		
-//		System.out.println("Sifrenin ilk harfi buyuk olmalıdır ");
-//		
-		
+
 		
 		
 		
