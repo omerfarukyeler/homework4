@@ -6,13 +6,13 @@ public class question4 {
 
 	public static void main(String[] args) {
 		
-		/*Kullanicidan ismini, soyismini ve kredi karti bilgisini isteyin ve asagidaki gibi yazdirin.
+	/*Kullanicidan ismini, soyismini ve kredi karti bilgisini isteyin ve asagidaki gibi yazdirin.
          *isim-soyisim : O*** K***** 
          */  
 		  		 
-		Scanner  scan = new Scanner (System.in);
+	Scanner  scan = new Scanner (System.in);
 		
-		System.out.println("Isminiz giriniz =");
+	System.out.println("Isminiz giriniz =");
 		
         String isim = scan.nextLine();
          
